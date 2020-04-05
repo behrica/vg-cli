@@ -1,14 +1,13 @@
 # vg-cli
 
+
+## Usage
+
 A Clojure library designed to wrap the vega / vega-lite command line tools,
 in order to convert vega/vega-lite specifications to svg or othder static formats.
 
 Original code comes from https://github.com/metasoarous/oz
 
-
-## Usage
-
-FIXME
 
 ## License
 

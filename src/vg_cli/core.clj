@@ -49,5 +49,3 @@
            err)))
      (log/error "Vega CLI not installed! Please run `npm install -g vega vega-lite vega-cli` and try again. (Note: You may have to run with `sudo` depending on your npm setup.)"))))
      ;; Todo; should be throwing
-
-
