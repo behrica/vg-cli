@@ -6,6 +6,13 @@
 A Clojure library designed to wrap the vega / vega-lite command line tools,
 in order to convert vega/vega-lite specifications to svg or othder static formats.
 
+The code assume that teh mpm packages vega-cli and vega-lite are installed and that the 2 cli tools:
+* vl2svg
+* vg2svg
+
+are in the os path
+
+
 Original code comes from https://github.com/metasoarous/oz
 
 
